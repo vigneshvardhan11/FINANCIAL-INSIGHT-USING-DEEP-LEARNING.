@@ -1,0 +1,8 @@
+django
+yfinance
+scikit-learn
+numpy
+tensorflow
+keras
+pandas
+fsspec
